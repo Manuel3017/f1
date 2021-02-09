@@ -1,0 +1,13 @@
+[
+  {
+    "Scuderia":"Mercedes",
+    "Campionati del mondo":"7",
+    "Colore scuderia":Argento,
+    "Primo pilota":"Hamilton",
+    "Secondo Pilota":"Bottas",
+    "Campionati vinti Hamilton":7,
+    "Campionati vinti Bottas":0,
+    "Nazionalità scuderia":Germania,
+    "Gare disputate stagione 2020":17,
+    "Vittorie stagione 2020":13,
+  }
